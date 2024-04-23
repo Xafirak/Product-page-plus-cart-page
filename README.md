@@ -13,3 +13,17 @@
 5) При нажатии на «Купить» в карточке на первой странице счетчик товаров рядом с иконкой корзины должен увеличиваться
 6) При изменении количества товаров в корзине, сумма и кол-во товаров должна изменяться
 7) Обязательным условием является хранение данных о каждом товаре в виде элемента массива и подстановка данных в карточки товара из полученных данных этого массива.Для передачи информации о выбранных в корзину позиций можно использовать SessionStorage.
+
+
+## Screenshots
+<details>
+  <summary>Click!</summary>
+  
+ 
+![1](https://github.com/Xafirak/Product-page-plus-cart-page/assets/118333625/fa5563bf-d2f5-47f4-8bf2-66b5ed90ee2e)
+![2](https://github.com/Xafirak/Product-page-plus-cart-page/assets/118333625/cac48687-9fdf-449f-b307-534ce62523c8)
+![3](https://github.com/Xafirak/Product-page-plus-cart-page/assets/118333625/ecbf5d38-1bc1-453b-95ef-c4dca2977396)
+![4](https://github.com/Xafirak/Product-page-plus-cart-page/assets/118333625/2c5516e8-c8b8-4b58-80a8-4185cbb1a5c5)
+  
+</details>
+
